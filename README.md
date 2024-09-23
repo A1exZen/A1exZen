@@ -45,9 +45,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img src="https://raw.githubusercontent.com/A1exZen/A1exZen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br/><br/>
+  <br/>
 </div>
 
 <hr/>
