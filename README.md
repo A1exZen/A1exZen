@@ -29,7 +29,7 @@
 
 <h2 align="center">🔥 Streak Stats 🔥</h2>
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=A1exZen&theme=gruvbox&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=A1exZen&theme=gruvbox)](https://git.io/streak-stats)
 </div>
 
 <h2 align="center">🐍 Snake 🐍</h2>
