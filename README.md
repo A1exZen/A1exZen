@@ -41,6 +41,7 @@
 </div>
 
 <br/>
+[![](https://visitcount.itsvg.in/api?id=A1exZen&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr/>
 
 <div align="center">
