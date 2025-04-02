@@ -29,9 +29,8 @@
 
 <h2 align="center">🔥 Streak Stats 🔥</h2>
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=A1exZen&theme=gruvbox&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1exZen&theme=gruvbox&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-<br/>
 
 <h2 align="center">🐍 Snake 🐍</h2>
 <div align="center">
