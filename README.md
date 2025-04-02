@@ -41,9 +41,17 @@
 </div>
 
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A1exZen&theme=dark&hide_border=false)<br/>
-<hr/>
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=A1exZen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=A1exZen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1exZen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="[https://raw.githubusercontent.com/A1exZen/A1exZen/output/github-contribution-grid-snake.svg](https://github-readme-stats.vercel.app/api?username=A1exZen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="Snake animation" />
+  <br/>
+</div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img src="https://raw.githubusercontent.com/A1exZen/A1exZen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
