@@ -27,11 +27,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">🔥 Streak Stats 🔥</h2>
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=A1exZen&theme=gruvbox)](https://git.io/streak-stats)
-</div>
-
 <h2 align="center">🐍 Snake 🐍</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/A1exZen/A1exZen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
