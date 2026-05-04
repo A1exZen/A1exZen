@@ -38,7 +38,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exZen&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://streak-stats.demolab.com/?user=A1exZen&theme=gruvbox" />
 </div>
 
 <hr/>
